@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vikrant Rajawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🌟 Software Developer | Frontend Specialist | React JS Enthusiast</h3>
+<p>With over three years of experience in designing and developing intuitive and dynamic user interfaces using React JS, I am passionate about creating seamless web experiences that delight users. My journey in the frontend world has been driven by a curiosity to explore new technologies and a commitment to continuous learning and improvement.
+
+<h4>🚀 Skills & Expertise</h4>
+<strong>Frontend Development:</strong> Proficient in HTML, CSS, JavaScript, and modern frontend frameworks.<br/>
+
+<strong>React JS:</strong> Extensive experience in building scalable and maintainable web applications using React JS.<br/>
+
+<strong>UI/UX Design:</strong> Strong understanding of design principles and user-centric design.<br/>
+
+<strong>Version Control:</strong> Experienced in using Git for version control and collaborative development. </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajawatvikrant" alt="rajawatvikrant" /></a> </p>
 
