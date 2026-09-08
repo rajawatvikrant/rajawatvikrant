@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikrant Rajawat</h1>
-<h3 align="center">🌟 Software Developer | Frontend Specialist | React JS Enthusiast</h3>
+<h3 align="center">🌟 Software Developer | Frontend Specialist | Enthusiast Developer</h3>
 <p>With over three years of experience in designing and developing intuitive and dynamic user interfaces using React JS, I am passionate about creating seamless web experiences that delight users. My journey in the frontend world has been driven by a curiosity to explore new technologies and a commitment to continuous learning and improvement.
 
 <h4>🚀 Skills & Expertise</h4>
